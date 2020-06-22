@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Profile</title>
@@ -30,9 +30,9 @@ div {
 		<hr><h1> A TRIBUTE TO SUSHANT SINGH RAJPUT (1986-2020)</h1>
 <nav>
 	<ul>
-		<li><a href="profile.html">    HOME</li>
-		<li><a href="@bout">          ABOUT</li>
-		<li><a href="achieve">   ACHIEVEMENTS</li>
+		<li><a href="profile.html">HOME</li>
+		<li><a href="@bout">ABOUT</li>
+		<li><a href="achieve">ACHIEVEMENTS</li>
 
 	</ul>
 </nav>
@@ -53,3 +53,4 @@ div {
 	</header>
 </body>
 </html>
+
