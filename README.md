@@ -6,23 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="profile.css">
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style> 
-div {
-  width: 50%  
-  height: 400%;
-  background-color: red;
-  position: relative;
-  animation-name: mymove;
-  animation-duration: 15s;
-}
-@keyframes mymove {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-  50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
-}
-</style>
+
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
 <BODY> tag: <STYLE>A {text-decoration: none;} </STYLE>
 </head>
