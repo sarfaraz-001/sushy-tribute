@@ -36,10 +36,16 @@ div {
 		<li><a href="@bout">ABOUT
 		
 		<li><a href="achieve">ACHIEVEMENTS
+		
+		
 
 	</ul>
+	
 </nav>
+
+
 <section>
+	
 <p>
 	<div class ="role">An Actor who Always Chased his Dreams.<br></div>	
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLY9YNmmIC-0Q6mw1uSntgcCDFGHiXDjIyTBp7It57CQ_YWXAR&usqp=CAU"">
@@ -55,8 +61,18 @@ div {
   <div class = "temp"> The Real Talent That Rose from ground.</div>
 </p>
 </section>
+
+
+
 	</header>
+	
+	
 </body>
 
+
+
 </html>
+
+
+
 
