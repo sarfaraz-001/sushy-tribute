@@ -4,7 +4,7 @@ font-size: 35px;
 padding: 30px;
 font-family:  'Roboto', sans-serif;
 color: white;
-background-color: white;
+background-color: skyblue;
 }
 
 }
@@ -40,9 +40,24 @@ padding-bottom: 45px;
 font-size: 25px;
 font-family: 'Montserrat', sans-serif;
 color: white;
+	
+  width: 50%  
+  height: 400%;
+  background-color: red;
+  position: relative;
+  animation-name: mymove;
+  animation-duration: 15s;
 
-
+@keyframes mymove {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
 }
+
+	
+	
 .goal{
 padding-bottom: 45px;
 font-size: 25px;
