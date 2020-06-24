@@ -1,5 +1,6 @@
 
 <html>
+	
 <head>
 	<title>Profile</title>
 	<link rel="stylesheet" type="text/css" href="profile.css">
@@ -31,7 +32,9 @@ div {
 <nav>
 	<ul>
 		<li><a href="profile.html">HOME
+			
 		<li><a href="@bout">ABOUT
+		
 		<li><a href="achieve">ACHIEVEMENTS
 
 	</ul>
@@ -54,5 +57,6 @@ div {
 </section>
 	</header>
 </body>
+
 </html>
 
