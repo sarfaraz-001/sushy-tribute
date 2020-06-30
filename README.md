@@ -16,7 +16,7 @@
 
 
 
-<BODY> tag: <STYLE>A {text-decoration: none;} </STYLE>
+<BODY><STYLE>A {text-decoration: none;} </STYLE>
 
 
 </head>
@@ -26,16 +26,12 @@
 
 <nav>
 	<ul>
-		<li><a href="profile.html">HOME</li>
+		<li><a href="profile.html">HOME
 			
-		<li><a href="@bout">ABOUT</li>
+		<li><a href="@bout">ABOUT
 		
-		<li><a href="achieve">ACHIEVEMENTS</li>
-		<
-
-	</ul>
+		<li><a href="achieve">ACHIEVEMENTS
 	
-</nav>
 
 <section>
 <style> 
@@ -92,7 +88,6 @@ div {
 </p>
 
 
-<\html>
 
 
 
